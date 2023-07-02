@@ -1,4 +1,4 @@
-<h1 align="center"> Do Excel para o Postgresql </h1>
+<h1 align="center"> Do Excel para o PostgreSQL </h1>
 
 ## Descrição do projeto
 
