@@ -1,4 +1,4 @@
-<h1 align="center"> Cálculo volumétrico de geomtrias </h1>
+<h1 align="center"> Cálculo volumétrico de geometrias </h1>
 
 ## Descrição do projeto
 
