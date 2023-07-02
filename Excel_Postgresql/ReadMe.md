@@ -3,7 +3,7 @@
 ## Descrição do projeto
 
 <p align="justify">
-  Projeto desnvolvido durante processo inicial do trabalho de conclusão de curso de Engenharia de Controle e Automação. O projeto propõe exportar os dados de um arquivo .xlsx para uma banco de dados no PostgreSQL.
+  Projeto desenvolvido durante processo inicial do trabalho de conclusão de curso de Engenharia de Controle e Automação. O projeto propõe exportar os dados de um arquivo .xlsx para uma banco de dados no PostgreSQL.
 </p>
 
 ## Funcionalidade
