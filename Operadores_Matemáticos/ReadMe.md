@@ -1,27 +1,31 @@
-<h1 align="center"> Operadores matemáticos </h1>
+<h1 align="center"> Calculadora básica de dois valores </h1>
 
 ## Descrição do projeto
 
 <p align="justify">
-  Projeto desenvolvido durante aulas de tópicos especiais de engenharia no curso de Engenharia de Controle e Automação. O projeto propõe realizar cálculos
-matemáticos com os operadores básicos: Soma [+], Subtração [-], Multiplicação [x], Divisão [÷]
+  Projeto desenvolvido aulas de tópicos especiais de engenharia no curso de Engenharia de Controle e Automação. O projeto propõe, a partir de dois valores realizar
+qualquer umas das 4 operações matemáticas selecionadas pelo usuário.
 </p>
 
 ## Funcionalidade
 
 <p align="justify">
-  Seu funcionamento é realizado no próprio terminal do programa utilizado. No qual se tem que digitar 2 números separados por um espaço, pressionar "enter", e então
-escrever qual a operação que deseja fazer. Caso não seja escrito corretamente o programa avisa "Operação não válida", mas se sim, o programa retorna o resultado da
-operção escrita. Para realizar alguma operação novamente, precisa reiniciar o programa inteiro manualmente.
+  Seu funcionamento é realizado em uma janela própria. O usuário precisa preencher os dois campos correspondentes aos valores 1 e 2, selecionar nos RadioButtons qual
+operação realizar e clicar no botão calcular. O resultado é mostrado abaixo do botão. Para sair basta clicar no botão fechar.
 </p>
 
-## Programas utilizados
+## Programa utilizado
 
 * Thonny: Python IDE for beginners
 
+## Biblioteca utilizada
+
+* tkinter
+* time
+
 ## Data
 
-24 de Abril de 2023
+04 de Maio de 2023
 
 ## Autor
 
