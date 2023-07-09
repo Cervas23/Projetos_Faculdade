@@ -17,7 +17,7 @@ cursor = con.cursor()
 
 cursor.execute("CREATE TABLE products6 (id serial PRIMARY KEY, name varchar(50), brand varchar(30), weight INTEGER, price INTEGER );")
 
-table = pd.read_excel("C:\Lucas\FTT\ECA9\TCC\excel_bp.xlsx")
+table = pd.read_excel("C:\")
 
 for linha in table.index:
     a = table['prod'][linha]
